@@ -1,3 +1,6 @@
+This project created an application in QT Creator that simulates the OASIS Pro Cranio-Electro Stimulation (CES) device
+
+
 ###### File Structure ######
 
 UseCasesAndDiagrams.pdf      -   contains use case model and diagrams
